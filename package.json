@@ -1,0 +1,42 @@
+{
+  "name": "node.js-simple-https-server",
+  "version": "1.0.0",
+  "description": "A simple HTTPS server that uses self signed certificate.",
+  "main": "server.js",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "body-parser": "^1.20.0",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon --unhandled-rejections=strict server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajinabraham/node.js-simple-https-server.git"
+  },
+  "keywords": [
+    "node.js",
+    "https",
+    "https",
+    "server",
+    "simple",
+    "https",
+    "server",
+    "node.js",
+    "self-signed",
+    "https",
+    "server"
+  ],
+  "author": "Ajin Abraham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajinabraham/node.js-simple-https-server/issues"
+  },
+  "homepage": "https://github.com/ajinabraham/node.js-simple-https-server#readme"
+}
